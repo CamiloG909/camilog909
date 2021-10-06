@@ -11,7 +11,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=camilog909&show_icons=true&theme=dark&count_private=true&hide_title=true&hide=stars&line_height=25"/>
+<img src="https://github-readme-stats.vercel.app/api?username=camilog909&show_icons=true&theme=dark&count_private=true&hide_title=true&hide=stars&line_height=24"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilog909&layout=compact&hide=javascript,html,ruby&hide_title=true&theme=dark&card_width=250"/>
 </p>
