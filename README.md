@@ -9,3 +9,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=%23F7DF1E)<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api?username=camilog909&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=stars&line_height=25"/>
