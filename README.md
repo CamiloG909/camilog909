@@ -19,5 +19,5 @@
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=camilog909&show_icons=true&theme=dark&count_private=true&hide_title=true&hide=stars&line_height=24"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilog909&layout=compact&hide=javascript,html,ruby&hide_title=true&theme=dark&card_width=250"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilog909&layout=compact&hide=javascript,html,ruby&hide_title=true&theme=dark&card_height=25"/>
 </p>
